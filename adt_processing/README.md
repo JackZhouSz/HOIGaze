@@ -17,8 +17,9 @@ Step 3: It is optional but highly recommended to set 'data_path' in 'dataset_vis
 @inproceedings{hu25hoigaze,
 	title={HOIGaze: Gaze Estimation During Hand-Object Interactions in Extended Reality Exploiting Eye-Hand-Head Coordination},
 	author={Hu, Zhiming and Haeufle, Daniel and Schmitt, Syn and Bulling, Andreas},
-	booktitle={Proceedings of the 2025 ACM Special Interest Group on Computer Graphics and Interactive Techniques},
-	year={2025}}
+	booktitle={Proceedings of the ACM Special Interest Group on Computer Graphics and Interactive Techniques},
+	year={2025},
+	pages = {1--10}}
 	
 @inproceedings{pan2023aria,
 	title={Aria digital twin: A new benchmark dataset for egocentric 3d machine perception},
